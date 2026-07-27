@@ -68,11 +68,13 @@ Note: Higher numbers mean they should be given more priority.
 
 # Requirements
 
-- Microsoft Excel 365 recommended
-- Support required for:
+- Microsoft Excel 365 is recommended
+- Required features:
   - LET()
   - Dynamic Arrays
-  - Power Query (Optional, for refresh data only)
+
+- Optional:
+  - Power Query (used for refreshing artifact data)
 
 ---
 
@@ -80,4 +82,4 @@ Note: Higher numbers mean they should be given more priority.
 
 This project is licensed under the MIT License.
 
-You are free to use, modify, and redistribute this project with proper attribution.
+You are free to use, modify, and redistribute this project as long as the original copyright notice and license are included.
