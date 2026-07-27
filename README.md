@@ -3,6 +3,24 @@ This is an Excel project.
 
 <img width="1295" height="1072" alt="image" src="https://github.com/user-attachments/assets/61f73ec0-0c79-4edb-b1c3-72241890b270" />
 
+---
+
+# Features
+
+- Sandrone damage calculator (Stellar-conduct)
+- Sandrone's Artifact main stat and substat optimizer
+- Brute-force simulation of every possible artifact combination
+- Calculates highest achievable damage based on:
+  - Level
+  - Weapon
+  - Team buffs
+  - Artifact stats
+  - ATK / EM / CRIT DMG balance
+- Shows recommended stat priorities
+- Displays how close your current build is compared to the optimized build
+
+---
+
 
 ## How to use:
 
