@@ -40,6 +40,9 @@ Note: The calculated damage has 2 results; the lower one is at 10 stacks, and th
 ## Click this checkbox for more details.
 <img width="1905" height="999" alt="image" src="https://github.com/user-attachments/assets/eb211be6-217d-4d65-a592-d05ff310128c" />
 
+---
+
+
 # Explanation:
 System Optimized Build:
 - Shows you the highest achievable Sandrone damage at the current setup: Level, Weapon, Teamates. (This does not base on your input stats such as ATK, EM, %CRIT_DMG)
