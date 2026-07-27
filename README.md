@@ -22,7 +22,7 @@ Note: The calculated damage has 2 results; the lower one is at 10 stacks, and th
 ## Click this checkbox for more details.
 <img width="1905" height="999" alt="image" src="https://github.com/user-attachments/assets/eb211be6-217d-4d65-a592-d05ff310128c" />
 
-## Explanation:
+# Explanation:
 System Optimized Build:
 - Shows you the highest achievable Sandrone damage at the current setup: Level, Weapon, Teamates. (This does not base on your input stats such as ATK, EM, %CRIT_DMG)
 - The Highest Damage is calculated by adjusting between %ATK, EM, and %CRIT_DMG of the Main and Sub stats of all 5 artifact pieces. (see sheet: [artifact_substat_cases] for more details)
@@ -37,3 +37,6 @@ Note: Higher numbers mean they should be given more priority.
 <img width="710" height="421" alt="image" src="https://github.com/user-attachments/assets/64d31279-1cae-4ea4-9bfc-94f431478eeb" />
 
 <img width="708" height="90" alt="image" src="https://github.com/user-attachments/assets/dd4e05d0-1cb4-430e-ad84-d620a72fa09a" />
+
+## This project basically brute-force simulates and calculates every possible artifact stats case to find the highest damage output!
+<img width="848" height="611" alt="image" src="https://github.com/user-attachments/assets/f9eece39-afb3-4382-98d6-9c0ea67a3fd2" />
