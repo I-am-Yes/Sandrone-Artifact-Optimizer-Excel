@@ -60,4 +60,24 @@ Note: Higher numbers mean they should be given more priority.
 <img width="708" height="90" alt="image" src="https://github.com/user-attachments/assets/dd4e05d0-1cb4-430e-ad84-d620a72fa09a" />
 
 ## This project basically brute-force simulates and calculates every possible artifact stats case to find the highest damage output!
+
 <img width="848" height="611" alt="image" src="https://github.com/user-attachments/assets/f9eece39-afb3-4382-98d6-9c0ea67a3fd2" />
+
+
+---
+
+# Requirements
+
+- Microsoft Excel 365 recommended
+- Support required for:
+  - LET()
+  - Dynamic Arrays
+  - Power Query (Optional, for refresh data only)
+
+---
+
+# License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and redistribute this project with proper attribution.
