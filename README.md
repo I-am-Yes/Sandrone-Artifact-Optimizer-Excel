@@ -69,7 +69,7 @@ Note: Higher numbers mean they should be given more priority.
 # Requirements
 
 - Microsoft Excel 365 is recommended
-- Required features:
+- Required Excel features:
   - LET()
   - Dynamic Arrays
 
@@ -78,8 +78,18 @@ Note: Higher numbers mean they should be given more priority.
 
 ---
 
+# Compatibility
+
+This workbook uses modern Excel functions and may not work correctly in older versions of Excel.
+
+Recommended versions:
+- Microsoft Excel 365
+- Excel 2021 or newer (compatibility may vary)
+
+---
+
 # License
 
 This project is licensed under the MIT License.
 
-You are free to use, modify, and redistribute this project as long as the original copyright notice and license are included.
+You are free to use, modify, and redistribute this project as long as the original copyright notice and license text are included.
