@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ---
 
-#[Stable Release_v1.1] 2-Aug-26
+## [Stable Release_v1.1] - 2-Aug-26
 
 - Fixed missing %ATK buff from Escoffier at different slots
 
@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ---
 
-#[Stable Release_v1.1] 31-Jul-26
+## [Stable Release_v1.1] - 31-Jul-26
 
 - Added Wolf's Gravestone
 - Added Escoffier R1 (separate from R0)
